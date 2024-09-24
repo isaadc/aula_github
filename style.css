@@ -1,0 +1,45 @@
+.texto
+{
+    width: 1000px;
+    margin: auto;
+    text-align: justify;
+    height: 100vh;
+}
+
+.titulo1
+{
+    text-align: center;
+}
+
+.menu
+{
+    height: 50px;
+    background-color: rgb(255, 234, 252);
+    width: 100%;
+}
+
+.menuLista
+{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+
+}
+
+.menuLista > li
+{
+    padding: 20px;
+    color: rgb(243, 100, 184);
+}
+
+.footer
+{
+    background-color: rgb(255, 234, 252);
+    text-align: center;
+    color: rgb(243, 100, 184);
+}
+
+.p
+{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
